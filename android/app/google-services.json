@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "304501917041",
+    "project_id": "lojavirtual-38a57",
+    "storage_bucket": "lojavirtual-38a57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304501917041:android:9c9b846335e773777822d0",
+        "android_client_info": {
+          "package_name": "br.com.beveldrive.lojavirtual.lojavirtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304501917041-hllhdtmuvk8a53oeq3i5q35fmsp55tpv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGIfdsQaqOAENRF4ZXnTn1e0MKXTMBv5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304501917041-hllhdtmuvk8a53oeq3i5q35fmsp55tpv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
